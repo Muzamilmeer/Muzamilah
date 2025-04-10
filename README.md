@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -159,7 +160,8 @@
 
   <nav>
     <div class="nav-logo">
-      <img srcqMuzamil Streetwear</span>
+      <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1744286893/IMG_20250403_185247_xzlxll.jpg" alt="Muzamil Logo">
+      <span>Muzamil Streetwear</span>
     </div>
   </nav>
 
@@ -202,6 +204,7 @@
     <p>Scan to Chat on WhatsApp:</p>
     <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://wa.me/919103594759&size=200x200" alt="QR Code">
     <div>
+      <img class="profile-img" src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1744286893/IMG_20250403_185247_xzlxll.jpg" alt="Muzamil">
     </div>
   </div>
 
